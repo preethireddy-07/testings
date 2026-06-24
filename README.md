@@ -15,3 +15,5 @@ Testing new experiments
     -free open machine learning course
 -> https://emergent.sh/
     -test free website/app builder
+-> https://www.mindluster.com/certificate/12558/Azure-Cloud-Management-video
+        -free cert
