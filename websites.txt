@@ -1,0 +1,8 @@
+LEARN
+-> https://pll.harvard.edu/course/cs50-introduction-computer-science
+-> https://visualgo.net/en
+    -DSA AND MORE
+-> https://fullstackopen.com/en/
+-> MOOC.fi
+-> https://www.theodinproject.com/
+    -web dev
